@@ -6,7 +6,7 @@ BlinkShield is a mobile app that uses your smartphone’s front-facing camera to
 
 ## 📄 Project Presentation
 
-[Download the BlinkShield Project Presentation (PDF)](docs/BlinkShield.pdf)
+[Download the BlinkShield Project Presentation (PDF)](BlinkShield.pdf)
 
 ---
 
